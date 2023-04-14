@@ -1,2 +1,2 @@
-# Unity-Echo3D-demo-ChatGPT-intergated-Virtual-Assistant
-Simple chatGPT-intergated virtual assistant demo build with Unity and Echo3D
+# Unity-Echo3D-demo-Space-Craft-Target-Collect-Game
+Simple spacecraft target collect game demo build with Unity and Echo3D
